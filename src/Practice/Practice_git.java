@@ -10,6 +10,7 @@ public class Practice_git {
 		
 		System.out.println(sc.hasNext());    
 		// just adding it for only 
+		//hello i have just made it clear to user 
 			
 	}
 
