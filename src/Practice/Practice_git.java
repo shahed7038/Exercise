@@ -8,7 +8,8 @@ public class Practice_git {
 		Scanner sc= new Scanner(System.in);
 		System.out.println("enter your number");
 		
-		System.out.println(sc.hasNext());          
+		System.out.println(sc.hasNext());    
+		// just adding it for only 
 			
 	}
 
